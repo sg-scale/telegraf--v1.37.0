@@ -80,7 +80,7 @@ require (
 	github.com/couchbase/go-couchbase v0.1.1
 	github.com/datadope-io/go-zabbix/v2 v2.0.1
 	github.com/digitalocean/go-libvirt v0.0.0-20250417173424-a6a66ef779d6
-	github.com/dimchansky/utfbom v1.1.1
+	github.com/dimchansky/utfbom v1.2.0
 	github.com/djherbis/times v1.6.0
 	github.com/docker/docker v28.5.2+incompatible
 	github.com/docker/go-connections v0.6.0
